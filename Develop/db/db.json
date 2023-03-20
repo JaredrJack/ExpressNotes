@@ -1,6 +1,9 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
+{
+    "Notes": [
+        {
+            "title": "ExpressNotes",
+            "text": "Welcome to Express Notes",
+            "id": " "
+        }
+    ]
+}
